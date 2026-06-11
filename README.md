@@ -3,8 +3,8 @@
   <h3>IT Support | Networking | Cybersecurity Learner</h3>
 </div>
 
-👨‍💻 About Me
-<br>
+<h2>👨‍💻 About Me</h2>
+
 <h3>An IT Support & Networking Learner from India. Currently learning CCNA, Windows Server, Linux Administration, Computer Hardware, and Cybersecurity Fundamentals.</h3>
 
 - 🔭 I’m currently working on [Cybersecurity Learning Repository](https://github.com/kartikey-soni-01/Cybersecurity-Study-Notes)
@@ -83,7 +83,7 @@
 Daily notes, labs, and cybersecurity learning roadmap.
 
 **Repository Link:**
-https://github.com/kartikey-soni-01
+https://github.com/kartikey-soni-01/Cybersecurity-Study-Notes
 
 ---
 
