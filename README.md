@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kartikey Soni</h1>
-<h3 align="center">An IT Support & Networking Learner from India. Currently learning CCNA, Windows Server, Linux Administration, Computer Hardware, and Cybersecurity Fundamentals.</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Kartikey Soni</h1>
+  <h3>IT Support | Networking | Cybersecurity Learner</h3>
+</div>
+
+👨‍💻 About Me
+<br>
+<h3>An IT Support & Networking Learner from India. Currently learning CCNA, Windows Server, Linux Administration, Computer Hardware, and Cybersecurity Fundamentals.</h3>
 
 - 🔭 I’m currently working on [Cybersecurity Learning Repository](https://github.com/kartikey-soni-01/Cybersecurity-Study-Notes)
 
@@ -25,36 +31,102 @@
 
 ## 🚀 Skills
 
-- Computer Hardware
-- Network Troubleshooting
-- CCNA Fundamentals
-- Windows 10/11
-- Windows Server
-- Linux Administration
-- Git & GitHub
-- Cybersecurity Fundamentals
-- VirtualBox
-- VMware
+### 💻 Hardware
 
-## 🛠️ Tools
+* Computer Assembly
+* Hardware Troubleshooting
+* BIOS & UEFI
+* RAM Installation
+* HDD / SSD Management
 
-- Cisco Packet Tracer
-- Wireshark
-- Nmap
-- Git
-- GitHub
-- VMware Workstation
-- VirtualBox
+### 🌐 Networking
 
-## 📚 Current Goals
+* TCP/IP
+* OSI Model
+* Subnetting
+* VLANs
+* Routing & Switching
+* CCNA Fundamentals
 
-- Complete CCNA
-- Learn Linux Administration
-- Build Cybersecurity GitHub Repository
-- Practice Networking Labs
-- Learn SOC & Blue Team Skills
+### 🖥️ Operating Systems
+
+* Windows 10/11
+* Windows Server
+* Linux Administration
+
+### 🔐 Cybersecurity
+
+* Security Fundamentals
+* Network Security
+* Vulnerability Assessment
+* Basic SOC Concepts
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Cisco Packet Tracer
+* Wireshark
+* Nmap
+* VMware Workstation
+* VirtualBox
+* Git
+* GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 Cybersecurity Learning Repository
+
+**Description:**
+Daily notes, labs, and cybersecurity learning roadmap.
+
+**Repository Link:**
+https://github.com/kartikey-soni-01
+
+---
+
+## 📚 Currently Learning
+
+* CCNA
+* Linux Administration
+* Windows Server
+* Network Security
+* Cybersecurity Fundamentals
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Complete CCNA Certification
+* [ ] Complete Linux Administration Learning Path
+* [ ] Build a Cybersecurity Portfolio
+* [ ] Learn SOC Analyst Skills
+* [ ] Upload Daily Learning Notes
+* [ ] Create Networking Labs Repository
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikey-soni-01&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=kartikey-soni-01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikey-soni-01&show_icons=true&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=kartikey-soni-01&theme=dracula" height="150" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-soni-01&layout=compact&theme=dracula" height="150" />
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy learning networking, cybersecurity, and troubleshooting real-world IT issues while documenting my journey on GitHub.
+
+⭐ Always learning something new in IT and Cybersecurity.
+Streak Stats" />
 </div>
