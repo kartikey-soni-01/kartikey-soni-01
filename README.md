@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **Computer Hardware, Basic Networking, CCNA Fundamentals, Linux Basics, DevOps Fundamentals, Cybersecurity Fundamentals, Git & GitHub**
 
-- 📫 How to reach me **kartikeysoni2509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikey-soni-01&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=kartikey-soni-01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" />
+</div>
 ###
