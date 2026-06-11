@@ -16,8 +16,8 @@
 - 🤝 I’m looking for help with **Blue Teaming, SOC Operations, and Penetration Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartikey-soni-01/](https://github.com/kartikey-soni-01/)
-
-📝 Currently documenting my cybersecurity learning journey through notes, labs, and projects on GitHub.
+  
+- 📝 Currently documenting my cybersecurity learning journey through notes, labs, and projects on GitHub.
 
 - 💬 Ask me about **Computer Hardware, Basic Networking, CCNA Fundamentals, Linux Basics, DevOps Fundamentals, Cybersecurity Fundamentals, Git & GitHub**
 
