@@ -1,33 +1,28 @@
-# 💫 About Me:
-Hi 👋 I’m Kartikey Soni, an IT Support & Networking learner.<br>I have knowledge of CCNA fundamentals, computer hardware, and troubleshooting.<br>I’m passionate about cybersecurity, systems, and continuously improving my technical skills.
+<h1 align="center">Hi 👋, I'm Kartikey Soni</h1>
+<h3 align="center">An IT Support & Networking Learner from India. Currently learning CCNA, Windows Server, Linux Administration, Computer Hardware, and Cybersecurity Fundamentals.</h3>
 
+- 🔭 I’m currently working on [Cybersecurity Learning Repository](https://github.com/kartikey-soni-01/Cybersecurity-Study-Notes)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1XckdcBsdB/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kartikey_sonii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kartikey-soni/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikeysoni2509@gmail.com) 
+- 🌱 I’m currently learning **CCNA, Linux, Windows Server, Hardware Troubleshooting, Cybersecurity**
 
-# 💻 Tech Stack:
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+- 👯 I’m looking to collaborate on [Networking & Cybersecurity Projects](https://github.com/kartikey-soni-01/)
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+- 🤝 I’m looking for help with **Blue Teaming, SOC Operations, and Penetration Testing**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kartikey-soni-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kartikey-soni-01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kartikey-soni-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 👨‍💻 All of my projects are available at [https://github.com/kartikey-soni-01/](https://github.com/kartikey-soni-01/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kartikey-soni-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 📝 I regularly write articles on [Currently documenting my cybersecurity learning journey on GitHub.](Currently documenting my cybersecurity learning journey on GitHub.)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💬 Ask me about **Computer Hardware, Basic Networking, CCNA Fundamentals, Linux Basics, DevOps Fundamentals, Cybersecurity Fundamentals, Git & GitHub**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kartikey-soni-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 📫 How to reach me **kartikeysoni2509@gmail.com**
 
----
-[![](https://komarev.com/ghpvc/?username=kartikey-soni-01&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartikey-soni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikey-soni/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61581970923048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61581970923048" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kartikey_sonii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartikey_sonii/" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
