@@ -122,7 +122,19 @@ https://github.com/kartikey-soni-01/Cybersecurity-Study-Notes
 </div>
 
 ---
+---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=kartikey-soni-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=kartikey-soni-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 ## ⚡ Fun Fact
 
 I enjoy learning networking, cybersecurity, and troubleshooting real-world IT issues while documenting my journey on GitHub.
